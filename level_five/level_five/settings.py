@@ -27,7 +27,7 @@ SECRET_KEY = 'oh$kzx*&g+@66ps2p55*$)x&(o9h#t#oe%6l56a0*0p&*k)dy0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sqsaman2.pythonanywhere.com']
 
 
 # Application definition
